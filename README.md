@@ -1,4 +1,4 @@
-# Cloth VR Project
+# Cloth Simulation (VR Project)
 
 A real-time cloth simulation extended to VR using Three.js and WebXR.  
 This project allows users to interact with a dynamic cloth using VR controllers in a browser environment.
