@@ -7,9 +7,9 @@
 
 A real-time cloth simulation extended to VR using Three.js and WebXR.  
 This project allows users to interact with a dynamic cloth using VR controllers in a browser environment.
--
+
 이 프로젝트는 웹 브라우저에서 VR 컨트롤러를 사용하여 실시간으로 옷감과 상호작용을 할 수 있는 XR 시뮬레이션 프레임워크이며, Three.js와 WebXR을 기반으로 제작되었습니다.
--
+
 
 This project is an extended version of the cloth simulation demo from Matthias Müller's Ten Minute Physics series.
 Original project by Matthias Müller.
@@ -18,16 +18,16 @@ Original project by Matthias Müller.
 
 ## Features
 
-- 👚 Real-time cloth physics simulation (PBD & XPBD)
+- 👚 Real-time cloth physics simulation (PBD & XPBD) <br />
   ( PBD와 XPBD 기반의 실시간 옷감 물리 시뮬레이션 )
   
-- 🎮 VR Controller interaction (grab & move & change light colors)
+- 🎮 VR Controller interaction (grab & move & change light colors) <br />
   ( VR 컨트롤러로 옷감의 한 부분을 잡고 움직일 수 있으며, 조명의 색상까지 변경 가능 )
 
-- 🌐 Web-based and responsive
+- 🌐 Web-based and responsive <br />
   ( 웹 브라우저에서 실시간으로 작동 )
   
-- 🛠️ Built with Three.js and WebXR
+- 🛠️ Built with Three.js and WebXR <br />
   ( Three.js와 WebXR 기술로 제작됨 )
 
 
