@@ -1,7 +1,15 @@
 # Cloth Simulation (VR Project)
 
+- 🏅 **Best Paper Award**, Korea Society of Computer and Information (KSCI) Conference 2024  
+  ⤷ 「웹 기반 물리 기반 천 시뮬레이션 및 상호작용을 위한 가상현실 프레임워크」 논문 발표  
+  ⤷ *"Web-based virtual reality framework for physically-based cloth simulation and interaction"*  
+  ⤷ [📎 관련 뉴스 보기 (인하대학교)](https://www.inha.ac.kr/kr/952/subview.do?&enc=Zm5jdDF8QEB8JTJGYmJzJTJGa3IlMkYxMSUyRjM4MDg0JTJGYXJ0Y2xWaWV3LmRvJTNGcGFnZSUzRDElMjZzcmNoQ29sdW1uJTNEJTI2c3JjaFdyZCUzRCUyNmJic0NsU2VxJTNEJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2cmdzRW5kZGVTdHIlM0QlMjZpc1ZpZXdNaW5lJTNEZmFsc2UlMjZwYXNzd29yZCUzRCUyNg==)
+
 A real-time cloth simulation extended to VR using Three.js and WebXR.  
 This project allows users to interact with a dynamic cloth using VR controllers in a browser environment.
+-
+이 프로젝트는 웹 브라우저에서 VR 컨트롤러를 사용하여 실시간으로 옷감과 상호작용을 할 수 있는 XR 시뮬레이션 프레임워크이며, Three.js와 WebXR을 기반으로 제작되었습니다.
+-
 
 This project is an extended version of the cloth simulation demo from Matthias Müller's Ten Minute Physics series.
 Original project by Matthias Müller.
@@ -11,9 +19,16 @@ Original project by Matthias Müller.
 ## Features
 
 - 👚 Real-time cloth physics simulation (PBD & XPBD)
+  ( PBD와 XPBD 기반의 실시간 옷감 물리 시뮬레이션 )
+  
 - 🎮 VR Controller interaction (grab & move & change light colors)
+  ( VR 컨트롤러로 옷감의 한 부분을 잡고 움직일 수 있으며, 조명의 색상까지 변경 가능 )
+
 - 🌐 Web-based and responsive
+  ( 웹 브라우저에서 실시간으로 작동 )
+  
 - 🛠️ Built with Three.js and WebXR
+  ( Three.js와 WebXR 기술로 제작됨 )
 
 
 ## Recommended Environment
