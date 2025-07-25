@@ -3,7 +3,7 @@
 - 🏅 **Best Paper Award**, Korea Society of Computer and Information (KSCI) Conference 2024  
   ⤷ 「웹 기반 물리 기반 천 시뮬레이션 및 상호작용을 위한 가상현실 프레임워크」 논문 발표  
   ⤷ *"Web-based virtual reality framework for physically-based cloth simulation and interaction"*
-  ⤷ [📎 논문 보기](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11926276)
+  ⤷ [📎 논문 보기](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11926276) <br />
   ⤷ [📎 관련 뉴스 보기 (인하대학교)](https://www.inha.ac.kr/kr/952/subview.do?&enc=Zm5jdDF8QEB8JTJGYmJzJTJGa3IlMkYxMSUyRjM4MDg0JTJGYXJ0Y2xWaWV3LmRvJTNGcGFnZSUzRDElMjZzcmNoQ29sdW1uJTNEJTI2c3JjaFdyZCUzRCUyNmJic0NsU2VxJTNEJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2cmdzRW5kZGVTdHIlM0QlMjZpc1ZpZXdNaW5lJTNEZmFsc2UlMjZwYXNzd29yZCUzRCUyNg==)
 <hr />
 A real-time cloth simulation extended to VR using Three.js and WebXR.  
