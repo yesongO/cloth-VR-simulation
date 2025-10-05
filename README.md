@@ -1,5 +1,7 @@
-# Cloth Simulation (VR Project)
-
+# Web-Based Cloth Simulation (VR Project)
+<br>
+Web-Based Virtual Reality Framework for Physically-Based Cloth Simulation and Interaction
+<br>
 - 🏅 **Best Paper Award**, Korea Society of Computer and Information (KSCI) Conference 2024  
   ⤷ 「웹 기반 물리 기반 천 시뮬레이션 및 상호작용을 위한 가상현실 프레임워크」 논문 발표  
   ⤷ *"Web-based virtual reality framework for physically-based cloth simulation and interaction"* <br />
@@ -17,16 +19,16 @@ Original project by Matthias Müller.
 ## Features
 
 - 👚 Real-time cloth physics simulation (PBD & XPBD) <br />
-  ( PBD와 XPBD 기반의 실시간 옷감 물리 시뮬레이션 )
+  ( PBD와 XPBD 기반의 실시간 옷감 물리 시뮬레이션입니다. )
   
 - 🎮 VR Controller interaction (grab & move & change light colors) <br />
-  ( VR 컨트롤러로 옷감의 한 부분을 잡고 움직일 수 있으며, 조명의 색상까지 변경 가능 )
+  ( VR 컨트롤러로 옷감의 한 부분을 잡고 움직일 수 있으며, 조명의 색상까지 변경 가능합니다. )
 
 - 🌐 Web-based and responsive <br />
-  ( 웹 브라우저에서 실시간으로 작동 )
+  ( 웹 브라우저에서 실시간으로 작동합니다. )
   
 - 🛠️ Built with Three.js and WebXR <br />
-  ( Three.js와 WebXR 기술로 제작됨 )
+  ( Three.js와 WebXR 기술로 제작되었습니다. )
 
 
 ## Recommended Environment
@@ -35,7 +37,12 @@ This project works best in **Google Chrome** with **WebXR-enabled VR devices** (
 To use VR mode, your browser must support **WebXR**. On some devices, you may need to enable experimental WebXR flags or install the **WebXR API Emulator** extension for testing in desktop browsers.
 
 
-## Preview
+## Preview (WebXR Emulator)
 
 ![Preview](./img/preview.png)
 ![Preview 2](./img/preview_2.png)
+
+## Demo video (VR mirroring screen)
+
+
+
