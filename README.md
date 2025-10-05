@@ -1,7 +1,9 @@
 # Web-Based Cloth Simulation (VR Project)
 <br>
 Web-Based Virtual Reality Framework for Physically-Based Cloth Simulation and Interaction
+
 <br>
+
 - 🏅 **Best Paper Award**, Korea Society of Computer and Information (KSCI) Conference 2024  
   ⤷ 「웹 기반 물리 기반 천 시뮬레이션 및 상호작용을 위한 가상현실 프레임워크」 논문 발표  
   ⤷ *"Web-based virtual reality framework for physically-based cloth simulation and interaction"* <br />
