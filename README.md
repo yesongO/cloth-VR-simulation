@@ -43,6 +43,4 @@ To use VR mode, your browser must support **WebXR**. On some devices, you may ne
 ![Preview 2](./img/preview_2.png)
 
 ## Demo video (VR mirroring screen)
-
-![Cloth-VR-Sim Demo](https://github.com/user-attachments/assets/e22f3a2d-f56a-4e93-baed-c4181f808772)
-
+<video src="https://github.com/user-attachments/assets/1088a2ba-d7f7-4201-a2ac-aa7ca0a740e5" controls></video>
